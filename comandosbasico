@@ -1,0 +1,17 @@
+#para criar uma variável no JS
+  #let xxx = yyy
+#para criar uma função
+  funcion xxx() = {yyy}
+
+#efeitos visuais
+  #background() = criar uma cor de fundo
+  #width = limites do framework
+  
+#comandos básicos
+  #para usar mais de 1 argumento em uma função: "||" (duas barras verticais)
+  
+#funções básicas
+  #noLoop() = interromper a função
+  #reDraw() = rodas o código 1 vez
+  #Loop() = rodar o código continuamente
+  
