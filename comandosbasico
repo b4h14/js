@@ -1,5 +1,6 @@
 #para criar uma variável no JS
   #let xxx = yyy
+  #const xxx = yyy (criar constantes)
 #para criar uma função
   funcion xxx() = {yyy}
 
@@ -14,4 +15,8 @@
   #noLoop() = interromper a função
   #reDraw() = rodas o código 1 vez
   #Loop() = rodar o código continuamente
+  
+#primeiros comandos
+  #toLowerCase() = transforma a variável em minúscula.
+  #lenght() = tamanho em caracteres da variável.
   
