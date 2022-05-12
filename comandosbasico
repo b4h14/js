@@ -40,3 +40,19 @@
 #console.error() = trackear quando houver erro no código
 #console.table() = ver o resultado do código em forma tabular
 #console.trace() = exibir a stacktrace de todos os pontos do código
+
+#funções
+  #para declarar: function {}
+  #para retornar: return
+  
+#funções matemáticas
+  #Math.round(): Faz o arredondamento de um número de ponto flutuante para o inteiro mais próximo.
+    quando o número termina com 0.5 a função arredonda para cima
+  #Math.ceil(): Faz o arredondamento para o valor mais alto
+  #Math.floor(): Faz o arredondamento para o valor mais baixo
+  #Math.trunc() : Desconsidera os números decimais, o que é conhecido como truncamento.
+  #Math.pow() : Faz a exponenciação de 2 números, quando for simples, como ao quadrado(2) ou cubo(3).
+  #Math.sqrt() : Retorna a raiz quadrada de um número.
+  #Math.min(): Retorna o menor valor entre os argumentos.
+  #Math.max(): Retorna o maior valor entre os argumentos.
+  #Math.random(): Retorna um valor randômico (random em inglês) entre 0 e 1
