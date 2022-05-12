@@ -16,8 +16,27 @@
   #reDraw() = rodas o código 1 vez
   #Loop() = rodar o código continuamente
   
+#operadores de código 
+  #1 igual (=) - atribuir valores
+  #2 iguais (==) - comparar valores
+  #3 iguais (===) - comparar valores e tipo de variável
+  #duas barras verticais (||) - ou
+  #dois e comerciais (&&) - e
+  #exclamação e igual (!=) - diferente
+  
+#operador terciário
+  #sintaxe: (var1 >= var 2 ? resultadodoIf : resultadodoElse)
+  #simplifica o if, tudo antes do ? é a condição e depois do ? é o resultado
+  
+#template string
+  #é utilizado para diminuir o trabalho em uma concatenação
+  #sintaxe: ´xxx ${var1}, xxxxxxxx ${Var2}´
+  
 #primeiros comandos
   #toLowerCase() = transforma a variável em minúscula.
   #lenght() = tamanho em caracteres da variável.
   
 #console.log() = visualizar o resultado de um código
+#console.error() = trackear quando houver erro no código
+#console.table() = ver o resultado do código em forma tabular
+#console.trace() = exibir a stacktrace de todos os pontos do código
