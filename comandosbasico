@@ -20,3 +20,4 @@
   #toLowerCase() = transforma a variável em minúscula.
   #lenght() = tamanho em caracteres da variável.
   
+#console.log() = visualizar o resultado de um código
