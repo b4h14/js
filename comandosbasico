@@ -44,6 +44,10 @@
 #funções
   #para declarar: function {}
   #para retornar: return
+    #dá para usar parâmetros dentro do return
+      #ex: return "Meu nome é ${par1}"
+  #arrow function
+    #sintaxe: hello = () => {return "Hello World!"};
   
 #funções matemáticas
   #Math.round(): Faz o arredondamento de um número de ponto flutuante para o inteiro mais próximo.
