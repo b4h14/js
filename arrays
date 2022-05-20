@@ -1,0 +1,22 @@
+#arrays
+
+#sintaxe 
+  #let xxx = [ele1,ele2,...]
+
+#funções em arrays
+  # xxx.length() = visualiza a quantidade de itens em um array
+  # xxx.push() = adicionar um elemento na última posição do array
+  # xxx.pop() = retirar o último elemento da array
+  # xxx.concat() = aglutinar 2 arrays
+  # xxx.filter() = faz um filtro na array com base nos parâmetros
+  # xxx.find() = localiza o primeiro objeto que obedece ao filtro selecionado
+  # xxx.findIndex() = semelhante ao find, porém com o índice do objeto
+  # xxx.indexOf() = localiza e visualiza a primeira ocorrência com o filtro selecionado
+  # xxx.lastIndexOf() = semelhante ao indexof, porém com a última ocorrência
+  # xxx.forEach() = submete a array a uma função
+  # xxx.shift() = retira o primeiro elemento da array
+  # xxx.unshift() = semelhante ao shift, porém adiciona no último elemento
+  # xxx.reverse() = reverte a ordem dos indices da array
+  # xxx.slice() = divide a array com base em um parâmetro
+  # xxx.sort() = ordena a array
+  # xxx.splice() = remover um ou mais objetos da array e substituí-los por outros objetos
