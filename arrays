@@ -18,5 +18,6 @@
   # xxx.unshift() = semelhante ao shift, porém adiciona no último elemento
   # xxx.reverse() = reverte a ordem dos indices da array
   # xxx.slice() = divide a array com base em um parâmetro
+    #usar indices para fazer o slice
   # xxx.sort() = ordena a array
   # xxx.splice() = remover um ou mais objetos da array e substituí-los por outros objetos
