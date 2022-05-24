@@ -25,3 +25,7 @@
       #ao usar o numerodeitens = 0, dá para inserir um novo objeto em um indice desejado
   # xxx.includes() = verifica se há algum objeto na lista.
     #retorna um boolean
+  # xxx.map() = cria uma nova array com base em uma função dentro dos parâmetros
+    #passa por todos os elementos da array e não altera a array original
+  # xxx.reduce() = reduz a array para um simples elemento, como média ou soma
+    #sintaxe= xxx.reduce(funcao()) 
