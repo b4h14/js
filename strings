@@ -1,0 +1,20 @@
+#como formatar strings
+
+#criando uma string
+  # let xxx = "yyy" ou 'yyy' ou String() ou func.toString()
+  
+#interpolação de strings
+  #exemplo: #let nome = "André"
+            #let saudacoes =`Seja bem-vindo ${nome}`
+            
+#funções com strings
+  #xxx.lenght() = traz a quantidade de caracteres de uma string
+  #xxx.charAt() = traz o caractere da posição informada
+  #xxx.indexOf() = traz o índice do caractere informado
+  #xxx.toUpperCase() = transforma a string em todas as letras maiúsculas
+  #xxx.toLowerCase() = transforma a string em todas as letras minúsculas
+  #xxx.substr() ou .slice() = extrair uma parte de uma string em outra string
+    #recebe parâmetro de índice início e índice fim
+  #xxx.replace() = altera as informações de uma string
+    #recebe parâmetros (parteDaStringARetirar, novaInformacaoNaString)
+ #xxx.trim() = elimina os espaços em branco da string
