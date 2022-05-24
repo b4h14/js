@@ -1,0 +1,4 @@
+#objetos em js
+
+#objetos são similares a dicionários em python, armazenam dados em pares 
+  #sintaxe: const lista = {var1:"Inf1", var2:"Inf2", etc...}
