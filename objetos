@@ -2,3 +2,4 @@
 
 #objetos são similares a dicionários em python, armazenam dados em pares 
   #sintaxe: const lista = {var1:"Inf1", var2:"Inf2", etc...}
+#tem como acessar elementos dentro do objeto da mesma forma com arrays
