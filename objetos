@@ -3,3 +3,8 @@
 #objetos são similares a dicionários em python, armazenam dados em pares 
   #sintaxe: const lista = {var1:"Inf1", var2:"Inf2", etc...}
 #tem como acessar elementos dentro do objeto da mesma forma com arrays
+
+#é possível deletar um elemento do objeto usando a sintaxe
+  #delete objeto.chaveDoObjeto
+  
+#um objeto pode ter um array como valor de uma chave ou um objeto dentro de um objeto
