@@ -8,3 +8,6 @@
   #delete objeto.chaveDoObjeto
   
 #um objeto pode ter um array como valor de uma chave ou um objeto dentro de um objeto
+
+#funcoes de objetos
+  #for..in
