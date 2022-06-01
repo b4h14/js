@@ -27,3 +27,7 @@
   #para traduzir um arquivo JSON em JS, ou vice-versa, use
     #JSON.parse(): converte JSON para um objeto JavaScript
     #JSON.stringify(): converte um objeto JavaScript para o formato JSON
+
+#protótipos de um objeto
+  #é possível visualizar dados básicos de um objeto, acessando o protótipo dele, usando a sintaxe
+    # arr.__proto__
