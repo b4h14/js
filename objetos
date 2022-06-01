@@ -11,3 +11,19 @@
 
 #funcoes de objetos
   #for..in
+  #Object.keys(nomeDoObjeto) = cria uma array com todas as keys de um objeto
+  #Object.values(nomeDoObjeto) = cria uma array com os valores dentro de um objeto
+
+#espalhamento de valores
+  #usa "..." em um objeto para espalhar as informações de um filtro no array como um todo
+  #o uso do spread operator é interessante em objetos, pois ele quebra a divisão entre objetos e cria um array com a informação como um todo
+
+#JSON
+  #JSON é um formato de arquivo de transferência de informações na web que usa a sintaxe de objetos do JS
+  #há algumas regras:
+    #No JSON, as chaves sempre devem estar entre aspas duplas ” ”, no formato string. Já no objeto JavaScript, as aspas não são obrigatórias
+    #O JSON aceita como valores apenas dados primitivos (string, number para números finitos, true, false e null), objetos e arrays. Não é possível declarar funções/métodos
+    #Não são permitidas vírgulas após o último conjunto de chave/valor do objeto
+  #para traduzir um arquivo JSON em JS, ou vice-versa, use
+    #JSON.parse(): converte JSON para um objeto JavaScript
+    #JSON.stringify(): converte um objeto JavaScript para o formato JSON
